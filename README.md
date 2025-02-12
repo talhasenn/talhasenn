@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Talha</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">A software developer and student of the game with Linguistics background</h3>
 
 - 🔭 I’m currently working on [Voiceless-v1](https://github.com/talhasenn/voiceless-v1)
 
-- 👨‍💻 All of my projects are available at [https://github.com/talhasenn](https://github.com/talhasenn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
